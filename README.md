@@ -62,8 +62,4 @@ Recommended image approach:
 - The visual design intentionally avoids fake stats, testimonials, client logos, awards or work experience.
 
 
-### Phone number
-In `index.html`, search `+91 XXXXX XXXXX` and replace it with your number. Also change the nearby `tel:+91XXXXXXXXXX` to `tel:+91YOURNUMBER`. There is one phone entry in Contact.
 
-### Certificates
-Put your real PDF certificates in `assets/certificates/` with filenames `generative-ai-studio.pdf` and `prompt-engineering.pdf`. Clicking the certificate cards opens the PDF.
